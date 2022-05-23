@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from 'react';
+import Navbar from './animeFactsComponents/Navbar'
+import { BrowserRouter, Route } from 'react-router-dom'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import home from './animeFactsComponents/home';
+import anime from './animeFactsComponents/anime';
+import bleach from './animeFactsComponents/bleach';
+import codeGeass from './animeFactsComponents/codeGeass';
+
+
+
+class App extends Component {
+  render() {
+    return (
+      <BrowserRouter>
+      <div>
+      <Navbar/>
+      <Route exact path='/' component={home}/>
+      <Route path='/anime'component={anime}/>
+      <Route path='/bleach'component={bleach}/>
+      <Route path='/codeGeass'component={codeGeass}/>
+      </div>
+      </BrowserRouter>
+    );
+  }
 }
-
 export default App;
