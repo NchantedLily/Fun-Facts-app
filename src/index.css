@@ -6,6 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #0066ff;
+ /* background: radial-gradient(circle at 50% 52%,#0066ff, #330445)*/
 }
 
 code {
@@ -15,3 +16,18 @@ code {
 h4{
   color:#fcfc00;
 }
+img{
+ width: 40rem;
+ display: flex;
+ align-content: center;
+ border-style: solid;
+ border-width: 10px;
+ border-left-color: #fcfc00;
+
+}
+
+a{
+  box-shadow: black;
+  margin: auto;  
+}
+

@@ -17,4 +17,16 @@ const Navbar = () => {
     )
 }
 
+/*code for navbar animation*/
+
+
+
+
+
+/*End of code for navbar animation*/
+
+
+
+
+
 export default withRouter(Navbar)
