@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/funfacts-app.git/static/css/main.6e07ea8d.css",
-    "main.js": "/funfacts-app.git/static/js/main.bfde321b.js",
-    "static/js/787.1c2d0264.chunk.js": "/funfacts-app.git/static/js/787.1c2d0264.chunk.js",
-    "static/media/animecollageimage.png": "/funfacts-app.git/static/media/animecollageimage.e95adba90be98a6b574a.png",
-    "static/media/bleachanimefunfactsimage.webp": "/funfacts-app.git/static/media/bleachanimefunfactsimage.6d0701fe1e883b06afa1.webp",
-    "static/media/animejapanfunfactsimage.webp": "/funfacts-app.git/static/media/animejapanfunfactsimage.3934e214ee3593b5fed9.webp",
-    "static/media/codeGeasspizzafunfactsimage.jpg": "/funfacts-app.git/static/media/codeGeasspizzafunfactsimage.31fc4e74cd6e39f01f3f.jpg",
-    "index.html": "/funfacts-app.git/index.html",
-    "main.6e07ea8d.css.map": "/funfacts-app.git/static/css/main.6e07ea8d.css.map",
-    "main.bfde321b.js.map": "/funfacts-app.git/static/js/main.bfde321b.js.map",
-    "787.1c2d0264.chunk.js.map": "/funfacts-app.git/static/js/787.1c2d0264.chunk.js.map"
+    "main.css": "/Fun-Facts-app/static/css/main.6e07ea8d.css",
+    "main.js": "/Fun-Facts-app/static/js/main.8576dfac.js",
+    "static/js/787.1c2d0264.chunk.js": "/Fun-Facts-app/static/js/787.1c2d0264.chunk.js",
+    "static/media/animecollageimage.png": "/Fun-Facts-app/static/media/animecollageimage.e95adba90be98a6b574a.png",
+    "static/media/bleachanimefunfactsimage.webp": "/Fun-Facts-app/static/media/bleachanimefunfactsimage.6d0701fe1e883b06afa1.webp",
+    "static/media/animejapanfunfactsimage.webp": "/Fun-Facts-app/static/media/animejapanfunfactsimage.3934e214ee3593b5fed9.webp",
+    "static/media/codeGeasspizzafunfactsimage.jpg": "/Fun-Facts-app/static/media/codeGeasspizzafunfactsimage.31fc4e74cd6e39f01f3f.jpg",
+    "index.html": "/Fun-Facts-app/index.html",
+    "main.6e07ea8d.css.map": "/Fun-Facts-app/static/css/main.6e07ea8d.css.map",
+    "main.8576dfac.js.map": "/Fun-Facts-app/static/js/main.8576dfac.js.map",
+    "787.1c2d0264.chunk.js.map": "/Fun-Facts-app/static/js/787.1c2d0264.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e07ea8d.css",
-    "static/js/main.bfde321b.js"
+    "static/js/main.8576dfac.js"
   ]
 }
